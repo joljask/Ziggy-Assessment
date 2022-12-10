@@ -1,0 +1,20 @@
+{
+  "name": "threeyt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.1"
+  },
+  "dependencies": {
+    "@seregpie/three.text-sprite": "^3.2.0",
+    "dat.gui": "^0.7.9",
+    "three": "^0.147.0"
+  }
+}
