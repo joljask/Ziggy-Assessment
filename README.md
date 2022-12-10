@@ -5,7 +5,7 @@
 
 ## Screenshot of Output
 
-![alt text](https://github.com/joljask/Ziggy-assessment/blob/main/output/home.png?raw=true)
+![Image of Output](https://github.com/joljask/Ziggy-assessment/blob/main/output/home.png?raw=true)
 
 ## Packages need to install
   ```
